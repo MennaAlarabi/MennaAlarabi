@@ -16,7 +16,7 @@ Computer Science student interested in learning new technologies, improving prob
 ### 📱 Islami App
 A Flutter application that provides Quran, Hadith, and Azkar with a clean and simple UI.
 
-[View Project](https://github.com/MennaAlarabi/islami)
+[View Project](https://github.com/MennaAlarabi/Islami_App)
 
 ---
 # 📊 GitHub Stats:
