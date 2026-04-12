@@ -17,12 +17,3 @@ Computer Science student interested in learning new technologies, improving prob
 A Flutter application that provides Quran, Hadith, and Azkar with a clean and simple UI.
 
 [View Project](https://github.com/MennaAlarabi/Islami_App)
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MennaAlarabi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MennaAlarabi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MennaAlarabi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=MennaAlarabi&icon=0&color=0)](https://visitcount.itsvg.in)
